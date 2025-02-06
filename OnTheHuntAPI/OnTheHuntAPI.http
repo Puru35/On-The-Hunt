@@ -1,0 +1,6 @@
+@OnTheHuntAPI_HostAddress = http://localhost:5114
+
+GET {{OnTheHuntAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

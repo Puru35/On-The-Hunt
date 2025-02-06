@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1A2HxJKgt04mMm1MYbIJ1k5rzu5X5QaxINotPYjChIo=",
+  "Source": "OnTheHuntAPI",
+  "BasePath": "_content/OnTheHuntAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
